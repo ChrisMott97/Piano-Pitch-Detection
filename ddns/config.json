@@ -1,0 +1,17 @@
+{
+  "cloudflare": [
+    {
+      "authentication": {
+          "api_token": "***REMOVED***" 
+      },
+      "zone_id": "f39458060ef67fa3b527bfab1cd3415a",
+      "subdomains": [
+        "tuning"
+      ],
+      "proxied": false
+    }
+  ],
+  "a": true,
+  "aaaa": true,
+  "purgeUnknownRecords": false
+}

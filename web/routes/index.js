@@ -3,9 +3,9 @@ var router = express.Router();
 const mysql = require('mysql');
 
 const connection = mysql.createConnection({
-	host: '***REMOVED***',
-	user: 'piano',
-	password: 'fundamental',
+	host: '',
+	user: '',
+	password: '',
 	database: 'pianotuning'
 })
 

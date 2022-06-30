@@ -2,7 +2,7 @@
   "cloudflare": [
     {
       "authentication": {
-          "api_token": "***REMOVED***" 
+          "api_token": "" 
       },
       "zone_id": "f39458060ef67fa3b527bfab1cd3415a",
       "subdomains": [
